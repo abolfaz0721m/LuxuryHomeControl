@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wireless Mic</string>
+
+    <string name="title_bluetooth">اتصال بلوتوث</string>
+    <string name="btn_connect_bt">بررسی مجدد اتصال بلوتوث</string>
+    <string name="btn_disconnect_bt">قطع اتصال بلوتوث</string>
+    <string name="status_bt_disconnected">وضعیت: هیچ دستگاه بلوتوثی متصل نیست (از تنظیمات گوشی وصل کنید)</string>
+    <string name="status_bt_connected">وضعیت: متصل به %1$s</string>
+
+    <string name="title_stream">استریم صدا</string>
+    <string name="btn_start_stream">شروع استریم</string>
+    <string name="btn_stop_stream">توقف استریم</string>
+
+    <string name="title_processing">پردازش صدا</string>
+    <string name="label_noise_suppression">حذف نویز (Noise Suppressor)</string>
+    <string name="label_agc">کنترل خودکار سطح صدا (AGC)</string>
+    <string name="label_manual_gain">تقویت دستی میکروفون (Gain)</string>
+    <string name="label_bass_boost">تقویت بیس (Bass Boost)</string>
+    <string name="label_loudness">افزایش بلندی (Loudness Enhancer)</string>
+
+    <string name="notification_channel_name">استریم میکروفون بی‌سیم</string>
+    <string name="notification_title">میکروفون بی‌سیم فعال است</string>
+    <string name="notification_text">در حال ارسال صدا به دستگاه بلوتوث</string>
+
+    <string name="permission_rationale">برای کارکرد برنامه، دسترسی میکروفون و بلوتوث الزامی است.</string>
+    <string name="error_no_bt_device">دستگاه بلوتوث متصلی پیدا نشد. ابتدا یک هدست/اسپیکر را جفت (Pair) کنید.</string>
+    <string name="error_audio_init">راه‌اندازی موتور صدا با خطا مواجه شد.</string>
+</resources>
