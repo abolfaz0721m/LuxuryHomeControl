@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Island Pro Max</string>
+    <string name="tab_island">جزیره (Island)</string>
+    <string name="tab_personal">شخصی (Main)</string>
+    <string name="tab_spaces">چند فضایی</string>
+    <string name="tab_security">امنیت</string>
+    <string name="tab_tools">ابزارها و MIUI</string>
+
+    <string name="island_status_active">پروفایل کاری فعال است</string>
+    <string name="island_status_inactive">پروفایل کاری فعال نیست</string>
+    <string name="btn_create_work_profile">ساخت Work Profile با یک کلیک</string>
+    <string name="btn_destroy_island">حذف کامل جزیره (Destroy Island)</string>
+    <string name="btn_freeze_all">فریز کردن همه اپ‌های جزیره</string>
+    <string name="btn_unfreeze_all">آن‌فریز همه اپ‌ها</string>
+    <string name="panic_mode_active">حالت اضطراری فعال شد</string>
+    <string name="miui_poco_detected">دستگاه POCO / MIUI شناسایی شد</string>
+    <string name="security_biometric_required">تأیید هویت بیومتریک الزامی است</string>
+    <string name="clone_app">کلون کردن به جزیره</string>
+    <string name="freeze_app">فریز (مسدودسازی)</string>
+    <string name="unfreeze_app">آن‌فریز (رفع مسدودیت)</string>
+    <string name="hide_app">مخفی‌سازی از لانچر</string>
+    <string name="vpn_service_title">Island Pro Max Isolated VPN</string>
+</resources>

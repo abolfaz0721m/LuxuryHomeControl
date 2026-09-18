@@ -1,0 +1,6 @@
+{
+  "name": "Island Pro Max",
+  "description": "پیشرفته‌ترین ابزار مدیریت Work Profile، کلون، ایزوله‌سازی و فریز اپلیکیشن‌ها سازگار با اندروید و MIUI/POCO",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
