@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Highrise 24/7 Bot Runner</string>
+    <string name="app_subtitle">اجرای ۲۴/۷ ربات پایتون هایرایز در پس‌زمینه</string>
+    
+    <!-- Tab Navigation -->
+    <string name="nav_console">کنسول و لاگ</string>
+    <string name="nav_files">فایل‌ها</string>
+    <string name="nav_packages">پکیج‌ها (pip)</string>
+    <string name="nav_settings">تنظیمات</string>
+
+    <!-- Bot Statuses -->
+    <string name="status_running">در حال اجرا</string>
+    <string name="status_stopped">متوقف شده</string>
+    <string name="status_restarting">تلاش مجدد…</string>
+    <string name="status_error">خطا در اجرا</string>
+
+    <!-- Controls -->
+    <string name="btn_start">شروع ربات</string>
+    <string name="btn_stop">توقف</string>
+    <string name="btn_restart">راه‌اندازی مجدد</string>
+    <string name="btn_clear_logs">پاک‌سازی لاگ</string>
+    <string name="btn_copy_logs">کپی لاگ‌ها</string>
+    <string name="btn_export_logs">ذخیره در فایل</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_name">سرویس ۲۴/۷ ربات هایرایز</string>
+    <string name="notif_channel_desc">نمایش وضعیت مداوم اجرای ربات پایتون در پس‌زمینه</string>
+    <string name="notif_action_stop">توقف ربات</string>
+    <string name="notif_action_restart">ریاستارت</string>
+
+    <!-- Files Screen -->
+    <string name="files_title">مدیریت فایل‌های ربات</string>
+    <string name="files_import_btn">افزودن فایل از گوشی (SAF)</string>
+    <string name="files_create_new">فایل جدید</string>
+    <string name="files_main_indicator">فایل اصلی اجرا</string>
+    <string name="files_set_main">تنظیم به عنوان فایل اصلی</string>
+    <string name="files_edit">ویرایش</string>
+    <string name="files_delete">حذف</string>
+    <string name="files_save">ذخیره تغییرات</string>
+
+    <!-- Packages Screen -->
+    <string name="pkg_title">مدیریت ماژول‌ها و Pip</string>
+    <string name="pkg_auto_scan">اسکن خودکار و نصب پکیج‌ها</string>
+    <string name="pkg_manual_install">نصب دستی پکیج</string>
+    <string name="pkg_input_hint">مثال: aiohttp==3.9.0 یا highrise-bot-sdk</string>
+    <string name="pkg_install_btn">نصب</string>
+    <string name="pkg_installed_title">پکیج‌های نصب شده</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">تنظیمات و پایداری ۲۴/۷</string>
+    <string name="settings_boot_start">اجرای خودکار پس از روشن شدن گوشی (Boot)</string>
+    <string name="settings_auto_restart">ریاستارت خودکار در صورت کرش با Backoff</string>
+    <string name="settings_wakelock">قفل روشن ماندن CPU (WakeLock)</string>
+    <string name="settings_battery_opt">درخواست معافیت از بهینه‌سازی باتری (Doze)</string>
+    <string name="settings_secrets_title">متغیرهای محیطی و توکن‌ها (.env)</string>
+    <string name="settings_token_hint">Highrise Bot Token</string>
+    <string name="settings_room_hint">Room ID</string>
+</resources>

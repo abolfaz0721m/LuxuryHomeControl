@@ -1,0 +1,6 @@
+{
+  "name": "Highrise 24/7 Bot Runner",
+  "description": "24/7 background runner for Highrise Python bots with SAF file manager, live console, pip package manager, and auto-restart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
